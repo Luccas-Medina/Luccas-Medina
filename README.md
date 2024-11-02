@@ -33,4 +33,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luccas-medina&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="luccasmedina" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/luccasmedina/en?trk=profile-badge">Luccas Medina</a></div>
+              
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccas-medina&label=Profile%20views&color=0e75b6&style=flat" alt="LuccasMedina" /> </p>
