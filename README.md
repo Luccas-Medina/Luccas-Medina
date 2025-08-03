@@ -30,8 +30,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccas-medina&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-medina&hide=html)](https://github.com/anuraghazra/github-readme-stats)
               
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccas-medina&label=Profile%20views&color=0e75b6&style=flat" alt="LuccasMedina" /> </p>
