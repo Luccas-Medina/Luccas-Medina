@@ -23,7 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccasmedina/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5533999837965)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gianluccas54@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gianluccas54@gmail.com)
               
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccas-medina&label=Profile%20views&color=0e75b6&style=flat" alt="LuccasMedina" /> </p>
